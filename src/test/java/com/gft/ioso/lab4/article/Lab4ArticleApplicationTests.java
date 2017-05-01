@@ -1,4 +1,4 @@
-package com.gft.ioso.lab4.verb;
+package com.gft.ioso.lab4.article;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
